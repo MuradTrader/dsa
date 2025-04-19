@@ -27,7 +27,6 @@
 3.1 Пример кода: multiplyNumbers(n)
 «Рассмотрим простую функцию:
 
-javascript
 function multiplyNumbers(n) {
     return n * n;
 }
